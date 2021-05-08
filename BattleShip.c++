@@ -124,4 +124,4 @@ int main() {
 
  	getchar();
 	getchar();
-	return 0; 
+	return 0;
