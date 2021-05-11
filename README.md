@@ -1,7 +1,7 @@
 # Battle-Ship
 Fenote Berhane
 CSE 283 Project 
-5/7/2019
+
 
 Welcome to Battleship
 
