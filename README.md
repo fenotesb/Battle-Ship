@@ -5,7 +5,7 @@ CSE 283 Project
 
 Welcome to Battleship
 
-I am going to write a program using the coding language C++ that plays the game Battleship. The computer will generate a board with a line that divides it in half. The one players will input their names and pick where they want to put their ship to be. They will also pick how long they want their ships to be.Then the game will begin. 
+This program uses the C++ coding language to recreate the game Battleship. The computer will generate a board with a line that divides it in half. The one players will input their names and pick where they want to put their ship to be. They will also pick how long they want their ships to be.Then the game will begin. 
 The objective of this game is to hit your opponent's ship’s before they hit yours.
 Both players will have ships somewhere on his/her screen.  Each player will try and “hit” the other by inputting coordinates of one of the squares on the board. Each square will be labeled by a number and an integer( An example of a square label is A1).  Each ship will get up to three lives,meaning how many hits they can take before being eliminated. Once a player sinks all the opposing player ships the game will end and it displays who won.   
 	Since I was the sole individual working on developing this game I ran into a plethora of challenges I never expected. In fact I actually ended up developing two completely different methods for running my game. I included both methods in the text file for the code but, with both methods I pretty much had to pass the same milestone. 
