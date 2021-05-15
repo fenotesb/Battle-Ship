@@ -78,14 +78,7 @@ void editMatrix(string row, string col) {
 
 
 int main() {
-	/*
- 	string question2 = "Where do you live? ";
-	string answer = "";
-	cout << question2;
-	cin >> answer;
-	answer += " it worked as planned i can edit what the user said";
-	cout << answer;
-	*/
+	
 
 	display();
 	cout << endl << endl << "Change!" << endl;
